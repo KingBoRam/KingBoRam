@@ -1,9 +1,9 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
 
-  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=02ce89&text=Frontend%20Developer&height=150&fontSize=60&desc=람뽀&descAlignY=75&descAlign=78)
+  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=1c7ed6&text=Frontend%20Developer&height=150&fontSize=60&desc=람뽀&descAlignY=75&descAlign=78)
 
 
   <br/><br/>
