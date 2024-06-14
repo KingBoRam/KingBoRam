@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70">
 
-  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=339af0&text=Frontend%20Developer&height=130&fontSize=60&desc=람뽀&descAlignY=75&descAlign=78)
+  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=339af0&text=Frontend%20Developer&height=130&fontSize=60&desc=람뽀&descAlignY=75&descAlign=83)
 
 
 
