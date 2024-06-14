@@ -2,14 +2,16 @@
 
 <div align="center">
 
+ <!--
+  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="50"/>
+  -->
+
   ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=02ce89&text=Frontend%20Developer&height=150&fontSize=60&desc=람뽀&descAlignY=75&descAlign=78)
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
   <br/><br/>
  
-  <!--
-  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="50"/>
-  -->
+ 
   
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next)](https://skillicons.dev)
