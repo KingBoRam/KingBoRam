@@ -1,4 +1,4 @@
-Welcome to my GitHub profile!
+🖐🏻 Hi! Welcome to KingBoRam's GitHub profile!
 
 ### My Tech Stack
 #### Languages
