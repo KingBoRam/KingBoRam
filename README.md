@@ -6,7 +6,7 @@
   ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=339af0&text=Frontend%20Developer&height=130&fontSize=60&desc=람뽀&descAlignY=75&descAlign=78)
 
 
-  <br/><br/>
+
  
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next)](https://skillicons.dev)
