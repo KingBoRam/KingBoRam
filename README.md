@@ -1,16 +1,12 @@
-
+<p align="center">
+  <img width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM2YnZiY2wyc3YybHdjMDh0dnEzbnF6ajZrazAzbzQ4NXB1NDVvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SmVVp30ymr3OznAOVj/giphy.gif">
+</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70">
-
-  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=339af0&text=Frontend%20Developer&height=130&fontSize=60&desc=람뽀&descAlignY=75&descAlign=83)
-
-
-
- 
-
+  
+  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=74c0fc&text=Frontend%20Developer&height=130&fontSize=60&desc=람뽀&descAlignY=75&descAlign=83)
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next)](https://skillicons.dev)
-
+  
 </div>
 
 
