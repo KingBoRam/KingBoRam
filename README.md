@@ -4,12 +4,12 @@
 
 <div align="center">
   
-  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=ddaaff&text=Web%20Developer&height=130&fontSize=74&desc=람뽀&descAlignY=75&descAlign=82)
+  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=ddaaff&text=%20Developer&height=130&fontSize=74&desc=람뽀&descAlignY=75&descAlign=72)
   <br>
   <br>
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
   <br>
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,docker,jenkins,aws,mongodb)](https://skillicons.dev)
  
 </div>
 
